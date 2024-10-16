@@ -31,7 +31,7 @@ While working on this project, I gained valuable experience in:
 
 ## 📸 Screenshots
 
-![Alt text](./public/courses/screenshot.png?raw=true "Optional Title")
+![Alt text](./public/courses/screenshot.png)
 
 ## 🔧 Installation and Setup
 
